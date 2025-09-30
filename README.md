@@ -5,11 +5,11 @@ Ejercicio Práctico 1.2
 
 Este proyecto implementa un servicio de caché distribuido usando Redis y .NET 9.
 
-## 🚀 Requisitos
+## Requisitos
 - .NET 9 SDK
 - Docker Desktop (para correr Redis)
 
-## ▶️ Cómo ejecutar
+## Cómo ejecutar
 
 1. Levantar Redis con Docker:
    ```bash
